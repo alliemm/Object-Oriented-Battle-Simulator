@@ -1,8 +1,4 @@
-/*
- Alma Marcu - hw08
- John Sterling
- Inheritance
- */
+
 #include "Protector.h"
 #include "Noble.h"
 #include <iostream>
@@ -54,4 +50,5 @@ int main() {
          << joe << endl
          << "==========\n";
 }
+
 
