@@ -19,11 +19,3 @@ Each subclass defines unique behavior through **virtual functions** and dynamic 
 - **Defend()** and **weaken()** methods overridden in subclasses
 - Uses **operator overloading** for clean console output
 
-
-## 🧰 Technical
-- Language: **C++17**
-- Compiler: `g++ -Wall -std=c++17`
-- Run:  
-  ```bash
-  g++ -Wall -std=c++17 -o battlesim main.cpp
-  ./battlesim
