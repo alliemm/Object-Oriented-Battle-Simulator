@@ -1,8 +1,4 @@
-/*
- Alma Marcu - hw08 - single file solution
- John Sterling
- Inheritance
- */
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -384,3 +380,4 @@ void PersonWithStrengthToFight::weaken(double ratio) {
         strength = (strength * (ratio));
     }
 }
+
